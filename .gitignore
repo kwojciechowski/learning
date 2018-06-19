@@ -1,2 +1,2 @@
-MyToken/node_modules/*
-MyToken/build/*
+/MyToken/node_modules
+/MyToken/build
