@@ -26,6 +26,10 @@ For more details, please review [/MyToken/test/apex_token.js]( https://github.co
  
 ##### Reference links:
 - [https://web3js.readthedocs.io/en/latest/](https://web3js.readthedocs.io/en/latest/)
+- [https://stackoverflow.com/questions/36627733/test-ethereum-event-logs-with-truffle](https://stackoverflow.com/questions/36627733/test-ethereum-event-logs-with-truffle)
+- [https://ethereum.stackexchange.com/questions/39958/how-can-i-debug-a-truffle-js-unit-test-with-vscode](https://ethereum.stackexchange.com/questions/39958/how-can-i-debug-a-truffle-js-unit-test-with-vscode)
+- [https://www.packtpub.com/application-development/solidity-programming-essentials](https://www.packtpub.com/application-development/solidity-programming-essentials)
+- [https://www.packtpub.com/big-data-and-business-intelligence/ethereum-smart-contract-development](https://www.packtpub.com/big-data-and-business-intelligence/ethereum-smart-contract-development)
       
       
      
