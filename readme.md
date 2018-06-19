@@ -1,4 +1,5 @@
 This repository demonstrates how to consume etherum's event stream.
+
 For more details, please review [/MyToken/test/apex_token.js]( https://github.com/kwojciechowski/learning/blob/master/MyToken/test/apex_token.js) file.
 
 ##### In order to read past Transfer events from the eth blockchain use the snippet bellow:
